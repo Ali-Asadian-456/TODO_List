@@ -1,0 +1,21 @@
+*{
+    padding: 0; /* حذف فاصله داخلی پیش‌فرض */
+    margin: 0; /* حذف فاصله خارجی پیش‌فرض */
+}
+
+.red{
+    background-color: red;
+}
+
+ul.name-list li{
+    border-bottom: 1px solid black;
+}
+
+
+ul.name-list{
+    list-style-type: none;
+}
+
+.btnList{
+    margin-top: 20px;
+}
